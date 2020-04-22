@@ -49,6 +49,7 @@
 
 - Dobre praktyki
   - używanie abstrakcji (wymaga wiedzy!)
+  - funkcje totalne
   - najpierw typy
   - newtype wrappery
   - modelowanie efektów na typach
